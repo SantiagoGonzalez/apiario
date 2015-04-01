@@ -8,7 +8,7 @@ class Golondrina {
 	def vola(int km){
 		energia-=km*5
 	}
-	
+//	comentario para el git
 	def come(Lombriz l){
 		energia+=l.peso
 	}	
